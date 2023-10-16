@@ -2,7 +2,7 @@
 This repository contains the code and results for using machine learning models to gains insights into customer hotel reservation prediction along with EDA.
 
 # Dataset
-Kaggle:  [Hotel Booking]([https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis](https://www.kaggle.com/datasets/mathsian/hotel-bookings/data)).
+Kaggle:  [Hotel Booking](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis](https://www.kaggle.com/datasets/mathsian/hotel-bookings/data).
 
 # Models using 
 - Logistic Regression
