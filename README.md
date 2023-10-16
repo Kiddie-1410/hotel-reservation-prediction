@@ -3,7 +3,7 @@ This repository contains the code and results for using machine learning models 
 
 # Dataset
 Kaggle:  Hotel Booking <br>
-Link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis](https://www.kaggle.com/datasets/mathsian/hotel-bookings/data).
+Link: https://www.kaggle.com/datasets/mathsian/hotel-bookings/data
 
 # Models using 
 - Logistic Regression
