@@ -14,9 +14,9 @@ Link: https://www.kaggle.com/datasets/mathsian/hotel-bookings/data
 
 # Files
 The project is organized into the following files:
-- Input: `hotel_bookings.csv` 
+- Input: `hotel_bookings.csv` - dataset
 - In-between:
-  - `hotel_booking.ipynb`
-  - `hotel_illus.pbix`
+  - `hotel_booking.ipynb` - data processing
+  - `hotel_illus.pbix` - data illustration
   - `model_results.csv`
-- Output: `Hotel Reservation - Machine Learning.pdf`
+- Output: `Hotel Reservation - Machine Learning.pdf` - presentation
